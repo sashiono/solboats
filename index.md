@@ -1,2 +1,2 @@
 # Sol Boats 
-Design and fabrication of Solar Boats and parts
+Design and Fabrication of Solar Boats and Parts
