@@ -1,9 +1,2 @@
----
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
----
-
-#Sol Boats 
+# Sol Boats 
 Design and fabrication of Solar Boats and parts
